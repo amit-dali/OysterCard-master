@@ -1,0 +1,17 @@
+C:\OysterCard-master\src\main\java\objectmodel\Property.java
+C:\OysterCard-master\src\main\java\objectmodel\Card.java
+C:\OysterCard-master\src\main\java\objectmodel\Fare.java
+C:\OysterCard-master\src\main\java\application\OysterCardApplication.java
+C:\OysterCard-master\src\main\java\helpers\CardBalance.java
+C:\OysterCard-master\src\main\java\json\object\builder\StationBuilder.java
+C:\OysterCard-master\src\main\java\helpers\PropertyHelper.java
+C:\OysterCard-master\src\main\java\json\object\builder\FareBuilder.java
+C:\OysterCard-master\src\main\java\constants\JourneyStatus.java
+C:\OysterCard-master\src\main\java\constants\Constants.java
+C:\OysterCard-master\src\main\java\json\object\builder\PropertyBuilder.java
+C:\OysterCard-master\src\main\java\helpers\CardHelper.java
+C:\OysterCard-master\src\main\java\constants\JourneyType.java
+C:\OysterCard-master\src\main\java\objectmodel\Station.java
+C:\OysterCard-master\src\main\java\constants\Swipe.java
+C:\OysterCard-master\src\main\java\exceptions\ApplicationException.java
+C:\OysterCard-master\src\main\java\objectmodel\Journey.java
